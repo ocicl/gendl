@@ -2,8 +2,8 @@
 
 Generative Design Language - Knowledge-based engineering framework.
 
-|---------+--------------------------------------------------|
+|---------+----------------------------------------------------|
 | source  | git:https://gitlab.common-lisp.net/gendl/gendl.git |
-| commit  | bfa9fc5                                          |
-| systems | gendl                                            |
-|---------+--------------------------------------------------|
+| commit  | bfa9fc5c                                           |
+| systems | gendl                                              |
+|---------+----------------------------------------------------|
